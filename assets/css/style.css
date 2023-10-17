@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#currency-converter {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+select, input, button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+#error {
+    color: red;
+}
+
+#chart {
+    width: 100%;
+    height: 200px;
+}
